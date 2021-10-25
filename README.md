@@ -5,7 +5,7 @@ This implementation of [`ViT`](https://arxiv.org/abs/2010.11929) in pytorch uses
 Most of the code is taken from https://github.com/lucidrains/vit-pytorch/blob/main/vit_pytorch/vit.py
 
 <p align="center">
-<img src="images/ViTSeg.png" width=80%>
+<img src="images/ViTSeg.jpg" width=80%>
 </p>
 
 ## Default Architecture Parameters:
@@ -42,6 +42,6 @@ If you find this repository useful, please consider citing it:
   title={ViTSeg-https://github.com/HReynaud/ViTSeg}, 
   url={https://github.com/HReynaud/ViTSeg},  
   Author={Reynaud, Hadrien}, 
-  Year={2021"}
+  Year={2021}
 }
 ```
