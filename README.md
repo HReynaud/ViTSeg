@@ -10,7 +10,7 @@ Most of the code is taken from https://github.com/lucidrains/vit-pytorch/blob/ma
 
 ## Default Architecture Parameters:
 
-```
+```python
 model = ViTSeg( image_size=112, 
                 channels=1,
                 patch_size=7, 
